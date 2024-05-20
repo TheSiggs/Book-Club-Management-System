@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Fiction Fans",
+    "description": "A club for fiction lovers.",
+    "members": [1, 3]
+  },
+  {
+    "id": 2,
+    "name": "History Buffs",
+    "description": "A club for those who love history.",
+    "members": [2]
+  },
+  {
+    "id": 3,
+    "name": "Sci-Fi Enthusiasts",
+    "description": "A club for science fiction fans.",
+    "members": [1, 3]
+  }
+]
