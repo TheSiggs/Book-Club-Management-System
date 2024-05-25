@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/Book-Club-Management-System/static/css/main.f855e6bc.css",
-    "main.js": "/Book-Club-Management-System/static/js/main.44ad8b04.js",
-    "static/js/453.d752664d.chunk.js": "/Book-Club-Management-System/static/js/453.d752664d.chunk.js",
-    "static/media/logo.svg": "/Book-Club-Management-System/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/Book-Club-Management-System/static/css/main.98cad64d.css",
+    "main.js": "/Book-Club-Management-System/static/js/main.14bcbec0.js",
+    "static/js/453.dd6ab8de.chunk.js": "/Book-Club-Management-System/static/js/453.dd6ab8de.chunk.js",
     "index.html": "/Book-Club-Management-System/index.html",
-    "main.f855e6bc.css.map": "/Book-Club-Management-System/static/css/main.f855e6bc.css.map",
-    "main.44ad8b04.js.map": "/Book-Club-Management-System/static/js/main.44ad8b04.js.map",
-    "453.d752664d.chunk.js.map": "/Book-Club-Management-System/static/js/453.d752664d.chunk.js.map"
+    "main.98cad64d.css.map": "/Book-Club-Management-System/static/css/main.98cad64d.css.map",
+    "main.14bcbec0.js.map": "/Book-Club-Management-System/static/js/main.14bcbec0.js.map",
+    "453.dd6ab8de.chunk.js.map": "/Book-Club-Management-System/static/js/453.dd6ab8de.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.44ad8b04.js"
+    "static/css/main.98cad64d.css",
+    "static/js/main.14bcbec0.js"
   ]
 }
